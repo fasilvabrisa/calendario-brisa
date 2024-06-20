@@ -1,0 +1,27 @@
+{
+  "name": "ngx-daterangepicker-bootstrap-brisa",
+  "version": "18.5.0",
+  "description": "Date Range Picker - Angular 18 and Bootstrap 5",
+  "keywords": [],
+  "homepage": "https://stackblitz.com/edit/ngx-daterangepicker-bootstrap-18-5-0",
+  "license": "MIT",
+  "author": {
+    "name": "brisa",
+    "email": "brisa@brisabr.com.br",
+    "url": "http://www.brisa.com.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iulius-ciorica/ngx-daterangepicker-bootstrap.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0",
+    "bootstrap": "^5.3.3",
+    "dayjs": "^1.11.11"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
